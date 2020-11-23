@@ -14,3 +14,5 @@ The following tasks will be carried out in this project :
 •	Extract and Transform the Kaggle data, which can be viewed in the ETL_clean_kaggle_data.IPYNB file. 
 
 •	Create the Movie Database, which can be viewed in the ETL_create_database.IPYNB file. 
+
+Note: the movies_metadata.csv file and ratings.csv files were too large to add to the repository
